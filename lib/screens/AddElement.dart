@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:listedelements/model/Element.dart';
-import 'package:listedelements/service/elementService.dart';
+import 'package:listdelement/model/Element.dart';
+import 'package:listdelement/service/elementService.dart';
 
 class AddElements extends StatelessWidget {
   final TextEditingController nomController = TextEditingController();
